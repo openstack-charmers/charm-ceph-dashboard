@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-ceph-dashboard
+> * https://github.com/openstack/charm-ceph-dashboard
+
 # Overview
 
 The ceph-dashboard configures the [Ceph Dashboard][ceph-dashboard-upstream].
